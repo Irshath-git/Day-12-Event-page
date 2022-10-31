@@ -1,0 +1,41 @@
+body{
+    background-color: #f3eaea;
+}
+.box-part{
+    background-color: white;
+    padding: 50px 10px;
+    margin: 30px 0px;
+    border-radius: 10px;
+    box-shadow: 5px 10px #8888;
+}.box-part img{
+    width: 180px;
+    height: 150px;
+    float: left;
+    margin-right: 5px;
+}
+.box-part p{
+    text-align: justify;
+}
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 15px;
+}
+.box{
+    padding: 70px 0px;
+}
+.search{
+    width: 40%;
+    margin-left: 30%;
+    box-sizing: border-box;
+    box-shadow: 5px 10px #8888;
+}
+::placeholder { 
+    color: black;
+    opacity: 1;
+    padding-left: 35%;
+  }
